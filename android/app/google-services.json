@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243915822595",
+    "project_id": "kanekt-me",
+    "storage_bucket": "kanekt-me.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243915822595:android:5005a343e65e616781a036",
+        "android_client_info": {
+          "package_name": "com.ekramoon.kanektme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNKb0BFJHnXTBG2ZMjtYTlK98BHmXO_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
