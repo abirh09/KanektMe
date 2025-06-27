@@ -17,7 +17,7 @@ Future<void> main() async {
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (context) => AuthService()),
-        ChangeNotifierProvider(create: (context) => EventService()), // Provide LocationService
+        ChangeNotifierProvider(create: (context) => EventService()),
       ],
       child: const MyApp(),
     ),
